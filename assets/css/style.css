@@ -1,0 +1,22 @@
+/* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border 0;
+}*/
+.main-container .nav-bar table{
+  width: 100%;
+}
+.main-container .nav-bar table,
+.main-container .nav-bar td,
+.main-container .nav-bar th {
+  border: 1px solid yellow;
+  border-collapse: collapse;
+}
+.main-container .nav-bar table thead{
+  background-color: blue;
+  color: white;
+}
+.main-container .nav-bar td{
+  background-color: red;
+  color: white;
+}
